@@ -1,0 +1,1 @@
+{"unit": [1098, 1146, 1032, 757], "exploration": [786, 3245], "over_score": 34, "move_counter": [274, 240, 196, 222, 206, 1239, 182, 331, 251, 242, 186, 289, 184], "success_fail": [1, 1], "asset_swing_val": 0, "lrate": [1, 1, 1, 1, 1], "reward_punish": [1e-05, 1e-05], "sharpe": 0}
